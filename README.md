@@ -1,2 +1,3 @@
-# .github
-Readme repo.
+# Whole Earth Robotics
+
+Making better tools
