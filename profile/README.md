@@ -1,31 +1,48 @@
 ```text
            _             _                              _    _
 __      __| |__    ___  | |  ___      ___   __ _  _ __| |_| |__
-\ \ /\ / /| '_ \  / _ \ | | / _ \    / _ \ / _` || '__| __| '_ \
- \ V  V / | | | || (_) || ||  __/   |  __/| (_| || |  | |_| | | |
-  \_/\_/  |_| |_| \___/ |_| \___|    \___| \__,_||_|   \__|_| |_|
+\ \ /\ / /| '_ \  / _ \ | | / _ \    / _ \ / _` || '__| __| '_ \             _____
+ \ V  V / | | | || (_) || ||  __/   |  __/| (_| || |  | |_| | | |          .-'.  ':'-.
+  \_/\_/  |_| |_| \___/ |_| \___|    \___| \__,_||_|   \__|_| |_|        .''::: .:     '.
+                                                                        /   :::::'       \
+              _             _    _                                     ;.    ':' `        ;
+ _ __   ___  | |__    ___  | |_ (_)  ___  ___                         |       '..          |
+| '__| / _ \ | '_ \  / _ \ | __|| | / __|/ __|                        ; '      ::::.       ;
+| |   | (_) || |_) || (_) || |_ | || (__ \__ \                         \       '::::       /
+|_|    \___/ |_.__/  \___/  \__||_| \___||___/                          '.      :::     .'
+                                                                            '-.___'_.-'
 
-              _             _    _
- _ __   ___  | |__    ___  | |_ (_)  ___  ___
-| '__| / _ \ | '_ \  / _ \ | __|| | / __|/ __|
-| |   | (_) || |_) || (_) || |_ | || (__ \__ \
-|_|    \___/ |_.__/  \___/  \__||_| \___||___/
 
-
-PRO TERRA
----------
+"PRO TERRA" | EST. 2026 | MASSACHUSETTS -> CALIFORNIA
+------------------------------------------------------
 
 We make useful tools for the real world.
 
-YES | NO CHART  (H.T. Lawrence Halprin)
----------------------------------
 
-*Coming soon*  
+
+| YES                 | NO                        (H.T. Lawrence Halprin)
+----------------------------------------------
+| stewardship         | extraction           |
+| quality             | quantity             |
+| complex systems     | complicated products |
+| focus               | everything at once   |
+| long-term thinking  | short-term wins      |
+| tools for people    | gizmos               |
+| we                  | I                    |
+
+
 
 READING
 --------
 
-*Coming soon*
+Operating Manual For Spaceship Earth by R. Buckminster Fuller
+
+配色事典 和田三造
+
+When We Cease to Understand the World by Benjamín Labatut
+
+Invention by James Dyson
+
 
 CURRENTLY INTERESTED IN
 ------------------------
@@ -38,12 +55,19 @@ dexterity
 maintenance
 people who know how things actually work
 
+
 WICKED SMAHT & GOOD PEOPLE
 ----------------------------
 
-Engineers, researchers, designers, technicians, and other dreamers:
+Engineers, researchers, technicians, and other dreamers: info at wholeearthrobotics dot com
 
-info at wholeearthrobotics dot com
+```
+<!-- WHOLE EARTH ROBOTICS | EST. 2026 | MASSACHUSETTS -> CALIFORNIA --> 
+
+
+
+
+<!-- 
 
 
              _____
@@ -57,4 +81,26 @@ info at wholeearthrobotics dot com
         '.      :::  .'
            '-.___'_.-'                                                                                  h.t. jgs
 
-```
+
+
+
+--> 
+
+
+<!-- 
+
+           _             _                              _    _
+__      __| |__    ___  | |  ___      ___   __ _  _ __| |_| |__
+\ \ /\ / /| '_ \  / _ \ | | / _ \    / _ \ / _` || '__| __| '_ \
+ \ V  V / | | | || (_) || ||  __/   |  __/| (_| || |  | |_| | | |
+  \_/\_/  |_| |_| \___/ |_| \___|    \___| \__,_||_|   \__|_| |_|
+
+              _             _    _
+ _ __   ___  | |__    ___  | |_ (_)  ___  ___
+| '__| / _ \ | '_ \  / _ \ | __|| | / __|/ __|
+| |   | (_) || |_) || (_) || |_ | || (__ \__ \
+|_|    \___/ |_.__/  \___/  \__||_| \___||___/
+
+
+--> 
+
