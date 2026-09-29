@@ -17,7 +17,7 @@ PRO TERRA
 
 We make useful tools for the real world.
 
-YES / NO CHART  (H.T. Lawrence Halprin)
+YES | NO CHART  (H.T. Lawrence Halprin)
 ---------------------------------
 
 *Coming soon*  
