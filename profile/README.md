@@ -25,7 +25,18 @@ YES | NO CHART  (H.T. Lawrence Halprin)
 READING
 --------
 
-*Coming soon*  
+*Coming soon*
+
+CURRENTLY INTERESTED IN
+------------------------
+
+machines
+plants
+tools
+terrain
+dexterity
+maintenance
+people who know how things actually work
 
 WICKED SMAHT & GOOD PEOPLE
 ----------------------------
