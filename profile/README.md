@@ -49,9 +49,10 @@ CURRENTLY INTERESTED IN
 
 machines
 plants
-tools
+cool tools
 terrain
 dexterity
+torque-dense actuators
 maintenance
 people who know how things actually work
 
