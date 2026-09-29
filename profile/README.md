@@ -49,7 +49,7 @@ CURRENTLY INTERESTED IN
 
 machines
 plants
-cool tools
+old patents
 terrain
 dexterity
 torque-dense actuators
