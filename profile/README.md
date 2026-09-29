@@ -49,7 +49,7 @@ CURRENTLY INTERESTED IN
 
 machines
 plants
-old patents
+old patent diagrams
 terrain
 dexterity
 torque-dense actuators
