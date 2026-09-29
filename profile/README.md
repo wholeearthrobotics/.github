@@ -47,7 +47,6 @@ Invention by James Dyson
 CURRENTLY INTERESTED IN
 ------------------------
 
-machines
 plants
 old patent diagrams
 terrain
