@@ -30,7 +30,7 @@ READING
 WICKED SMAHT & GOOD PEOPLE
 ----------------------------
 
-Engineers, researchers, designers, mechanics, and other builders:
+Engineers, researchers, designers, technicians, and other dreamers:
 
 info at wholeearthrobotics dot com
 
