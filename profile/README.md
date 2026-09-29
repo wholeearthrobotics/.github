@@ -1,9 +1,9 @@
+```text
            _             _                              _    _
-__      __| |__    ___  | |  ___      ___   __ _  _ __ | |_ | |__
-\ \ /\ / /| '_ \  / _ \ | | / _ \    / _ \ / _` || '__|| __|| '_ \
- \ V  V / | | | || (_) || ||  __/   |  __/| (_| || |   | |_ | | | |
-  \_/\_/  |_| |_| \___/ |_| \___|    \___| \__,_||_|    \__||_| |_|
-
+__      __| |__    ___  | |  ___      ___   __ _  _ __| |_| |__
+\ \ /\ / /| '_ \  / _ \ | | / _ \    / _ \ / _` || '__| __| '_ \
+ \ V  V / | | | || (_) || ||  __/   |  __/| (_| || |  | |_| | | |
+  \_/\_/  |_| |_| \___/ |_| \___|    \___| \__,_||_|   \__|_| |_|
 
               _             _    _
  _ __   ___  | |__    ___  | |_ (_)  ___  ___
@@ -12,21 +12,38 @@ __      __| |__    ___  | |  ___      ___   __ _  _ __ | |_ | |__
 |_|    \___/ |_.__/  \___/  \__||_| \___||___/
 
 
-**Pro terra.**
+PRO TERRA
+---------
 
 We make useful tools for the real world.
 
-### Yes / No  (H.T. Lawrence Halprin)
-
-
-### Reading
+YES / NO CHART  (H.T. Lawrence Halprin)
+---------------------------------
 
 *Coming soon*  
 
-### Wicked Smaht and Nice People
+READING
+--------
+
+*Coming soon*  
+
+WICKED SMAHT & GOOD PEOPLE
+----------------------------
 
 Engineers, researchers, designers, mechanics, and other builders:
 
-**info@wholeearthrobotics.com**
+info at wholeearthrobotics dot com
 
-`pro terra`
+
+             _____
+          .-'.  ':'-.
+        .''::: .:    '.
+       /   :::::'      \
+      ;.    ':' `       ;
+      |       '..       |
+      ; '      ::::.    ;
+       \       '::::   /
+        '.      :::  .'
+           '-.___'_.-'                                                                                  h.t. jgs
+
+```
