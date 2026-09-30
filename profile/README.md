@@ -16,7 +16,7 @@ __      __| |__    ___  | |  ___      ___   __ _  _ __| |_| |__
 "PRO TERRA" | EST. 2026 | MASSACHUSETTS -> CALIFORNIA
 ------------------------------------------------------
 
-We make useful tools for the real world.
+Building better tools for life on Earth
 
 
 
@@ -51,8 +51,10 @@ plants
 old patent diagrams
 terrain
 dexterity
+bokashi
 torque-dense actuators
 maintenance
+lichen
 people who know how things actually work
 
 
